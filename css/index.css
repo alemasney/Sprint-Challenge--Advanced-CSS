@@ -164,6 +164,15 @@ a {
   width: 100%;
   margin: 0 auto;
 }
+.btn {
+  color: #F6F7F8;
+  background: #23293B;
+  width: 70px;
+  text-align: center;
+  padding: 6px;
+  border-radius: 4px;
+  font-size: 1.2rem;
+}
 .main-nav {
   display: flex;
   justify-content: space-around;
